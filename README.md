@@ -93,6 +93,41 @@ streamlit run rag-user.py
 - ⚙️ Adjustable query temperature
 - 📝 Persistent chat history per session
 
+## Screenshots
+
+### Admin Interface
+
+#### Main Screen
+![Admin Main Screen](img/rag-admin_main_screen.png)
+
+#### Document Upload
+![Admin Documents](img/rag-admin_documents.png)
+
+#### Document List & Management
+![Admin Document List](img/rag-admin_document_list.png)
+
+### User Interface
+
+#### Main Screen
+![User Main Screen](img/rag-user_main_screen.png)
+
+#### Query Example - ISO 27001
+![User Query ISO 27001](img/rag-user_27001.png)
+
+#### Query Example - ISO 31000
+![User Query ISO 31000](img/rag-user_31000.png)
+
+#### Query Example - ISO 9001
+![User Query ISO 9001](img/rag-user_9001.png)
+
+### CLI & Models
+
+#### CLI Messages
+![CLI Messages](img/cli_messages.png)
+
+#### Ollama Models
+![Ollama Models](img/ollama_models.png)
+
 ## Configuration
 
 ### Admin Settings
