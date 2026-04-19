@@ -1,0 +1,50 @@
+# Git
+.git
+.gitignore
+
+# Python
+__pycache__
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+
+# Vector stores (will be mounted as volume)
+vector_stores/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# Documentation
+*.md
+!README.md
+
+# Data files (mount separately)
+data/
+*.pdf
+
+# Tests
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Temporary files
+*.tmp
+/tmp/
